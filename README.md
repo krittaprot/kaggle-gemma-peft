@@ -13,7 +13,7 @@ To overcome the limitations of generic LLMs, we employed a technique known as qu
 Despite its successes, the fine-tuned model occasionally produces "hallucinations" — responses based more on the model's pre-trained context rather than the specific data it was trained on. Additionally, the model may default back to its general knowledge base when presented with vague questions or insufficient context.
 
 ## Implementation Details
-- **Model Used:** Google Open-source Gemma LLM (7 billion parameters)
+- **Model Used:** [Google Open-source Gemma LLM (7 billion parameters)](https://ai.google.dev/gemma?authuser=1)
 - **Technique:** Quantized Low-Rank Adaptation (QLoRA)
 - **Training Environment:** Single GPU setup
 - **Dataset:** Custom, Kaggle-specific synthetic dataset generated from scraped data.
