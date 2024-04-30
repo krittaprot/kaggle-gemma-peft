@@ -14,7 +14,7 @@ Despite its successes, the fine-tuned model occasionally produces "hallucination
 
 ## Implementation Details
 - **Model Used:** [Google Open-source Gemma LLM (7 billion parameters)](https://ai.google.dev/gemma?authuser=1)
-- **Technique:** Quantized Low-Rank Adaptation (QLoRA)
+- **Technique:** [Quantized Low-Rank Adaptation (QLoRA)](https://arxiv.org/abs/2305.14314)
 - **Training Environment:** Single GPU setup
 - **Dataset:** Custom, Kaggle-specific synthetic dataset generated from scraped data.
 
