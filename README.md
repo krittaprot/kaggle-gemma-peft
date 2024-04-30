@@ -39,6 +39,3 @@ This project is released under the MIT License, which allows for liberal use and
 
 ## Acknowledgements
 We would like to acknowledge the contributions of the open-source community and the developers of the Gemma LLM for making this project possible.
-
-## Footnotes
-- ChatGPT was launched by OpenAI and is accessible at [chat.openai.com](chat.openai.com).
