@@ -27,8 +27,13 @@ This section will provide instructions on how to set up, configure, and interact
 ## Contributions
 We welcome contributions from the community to enhance the model's performance and expand its applicability. Please refer to the contributing guidelines before making a submission.
 
+## Authors
+- Krittaprot Tangkittikun
+- Kevin Simon Ireri Kori
+- James Mbugua Mungai
+
 ## License
-This project is released under [insert appropriate license here], which allows for liberal use and modification of the software.
+This project is released under the MIT License, which allows for liberal use and modification of the software.
 
 ## Acknowledgements
 We would like to acknowledge the contributions of the open-source community and the developers of the Gemma LLM for making this project possible.
