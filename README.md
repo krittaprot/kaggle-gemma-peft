@@ -21,7 +21,7 @@ Despite its successes, the fine-tuned model occasionally produces "hallucination
 ## Findings
 Our findings indicate that while the model successfully acquires domain-specific knowledge, there is still room for improvement in terms of reducing hallucinations and ensuring the model consistently applies its trained knowledge.
 
-More details can be found in this [technical report](https://github.com/krittaprot/kaggle-gemma-peft/blob/main/Project_Report___CS_7643__Context_Crafters_.pdf)
+More details can be found in this [technical report](https://github.com/krittaprot/kaggle-gemma-peft/blob/main/Project_Report___CS_7643__Context_Crafters_.pdf).
 
 ## How to Use
 The notebook is provided [here](https://github.com/krittaprot/kaggle-gemma-peft/blob/main/QLoRA_Fine_Tuning_Gemma_Kaggle_Assistant.ipynb).  
